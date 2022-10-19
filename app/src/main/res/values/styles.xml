@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--    <style name = "AppTheme" parent = "android:Theme.Holo.Light.DarkActionBar">-->
+<!--        &lt;!&ndash; Customize your theme here. &ndash;&gt;-->
+<!--    </style>-->
+
+    <style name="BottomNavigationView" parent="@style/TextAppearance.AppCompat.Caption">
+        <item name="fontFamily">@font/red_hat_display</item>
+        <item name="android:textSize">12sp</item>
+        <item name="lineHeight">13sp</item>
+        <item name="fontWeight">500</item>
+
+    </style>
+
+    <style name="BottomNavigationView.Active" parent="@style/TextAppearance.AppCompat.Caption">
+        <item name="fontFamily">@font/red_hat_display</item>
+        <item name="android:textSize">12sp</item>
+        <item name="lineHeight">13sp</item>
+
+
+    </style>
+
+
+
+</resources>

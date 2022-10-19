@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">testDevApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_market">Market</string>
+    <string name="title_post_offer">Post offer</string>
+    <string name="title_updates">Updates</string>
+    <string name="title_profile">Profile</string>
+</resources>
