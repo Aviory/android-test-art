@@ -5,4 +5,11 @@
     <string name="title_post_offer">Post offer</string>
     <string name="title_updates">Updates</string>
     <string name="title_profile">Profile</string>
+    <string name="buy_offers">Buy offers</string>
+    <string name="sell_offers">Sell offers</string>
+    <string name="exchange_rate">exchange rate</string>
+    <string name="txt_buy">Buy</string>
+    <string name="baud">BAUD</string>
+    <string name="market_rv_item_txt_available">Available:</string>
+    <string name="market_rv_item_txt_amount">Order amount:</string>
 </resources>

@@ -3,15 +3,22 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/drawable/btn_buy_backg.xml" value="0.5755" />
+        <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/drawable/ic_filter_button.xml" value="0.567" />
         <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/drawable/ic_notifications_black_24dp.xml" value="0.535" />
         <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/drawable/ic_path.xml" value="0.336" />
+        <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/drawable/market_cop_layout_coroner.xml" value="0.5755" />
+        <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/drawable/market_rv_item_backg.xml" value="0.5755" />
+        <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/drawable/search_backg.xml" value="0.3405" />
         <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/font/red_hat_display.xml" value="0.6046875" />
-        <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/layout/activity_main.xml" value="0.600451467268623" />
+        <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/font/red_hat_market_offers.xml" value="0.6046875" />
+        <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/layout/fragment_dashboard.xml" value="0.5541666666666667" />
         <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/layout/fragment_home.xml" value="0.5541666666666667" />
-        <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/layout/fragment_market.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/layout/fragment_market.xml" value="0.5" />
         <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/layout/fragment_offers.xml" value="0.5541666666666667" />
         <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/layout/profile_fragment.xml" value="0.5541666666666667" />
+        <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/layout/rv_offers_item.xml" value="0.5" />
         <entry key="..\:/Users/avior/AndroidStudioProjects/testDevApp/app/src/main/res/menu/bottom_nav_menu.xml" value="0.5541666666666667" />
       </map>
     </option>

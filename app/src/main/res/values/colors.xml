@@ -8,4 +8,11 @@
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
     <color name="gray">#AFAFAF</color>
+    <color name="backg_color">#F2F2F2</color>
+    <color name="market_rv_item_backg">#F8F8FA</color>
+    <color name="active_offers">#000000</color>
+    <color name="no_active_offers">#C5C7C6</color>
+    <color name="rv_item_user_name">#000000</color>
+    <color name="rv_item_describe">#8F8E96</color>
+    <color name="btn_buy_backg">#02C87C</color>
 </resources>
